@@ -12,6 +12,11 @@ body {
     margin: 0;
     text-align: center;
     font-family: "Playwrite NZ Basic", cursive;
+    width: 1150px;
+    display: block;
+    margin: 0 auto;
+    border: 8px solid #1D3557;
+    border-radius: 10px;
 }
 
 #hero-section {
@@ -78,7 +83,7 @@ body {
 
 #guide-section {
     background-color: white; 
-    padding: 10px;
+    padding: 20px;
 }
 
 .card {
