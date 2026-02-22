@@ -6,7 +6,7 @@ A visually engaging, landing page built to showcase the natural beauty and cultu
 
 [Project Screenshot](https://drive.google.com/file/d/1LKPFxTo7hCHVJhlfGvtztKbTdXD9Z7zQ/view?usp=sharing)
 
-[Project link](https://burundi-home-town.netlify.app/)
+[Project link](https://assadullahhassan.github.io/home-town/)
 
 
 ## 🚀 Features
